@@ -1,3 +1,4 @@
+#assignment-portal-frontend
 A simple React application.
 
 Getting Started
@@ -8,7 +9,7 @@ npm or yarn
 
 Installation
 Clone the repository:
-git clone [repository-url]
+git clone https://github.com/ziyadvk2/assignment-portal-frontend.git
 
 Navigate to the project directory:
 cd assignment-portal-frontend
